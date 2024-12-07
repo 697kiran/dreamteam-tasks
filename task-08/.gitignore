@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+nextjs-project/node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore build directories
+.next/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+node_modules/
+.env
+node_modules/
+task-08/nextjs-project/.next/
